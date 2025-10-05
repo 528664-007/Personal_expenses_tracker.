@@ -103,12 +103,11 @@ Data storage
 <img width="1442" height="781" alt="image" src="https://github.com/user-attachments/assets/bf1fdd70-6fe1-4d0d-9c78-e9c0997dddf1" />
 Editing/deleting of Data
 <img width="1318" height="571" alt="image" src="https://github.com/user-attachments/assets/954da4cb-9b67-40ae-a1b8-271ef25dc58a" />
-Export to csv file
+Statistics 
 <img width="1342" height="392" alt="image" src="https://github.com/user-attachments/assets/504d2a6e-3eb7-4160-9d67-5a87b5e38484" />
-Charts (Downloadable)
+Export to csv file
 <img width="1249" height="763" alt="image" src="https://github.com/user-attachments/assets/d4a4bd2f-b530-4fbc-8894-fc4ba56180df" />
-
-
+Charts (Downloadable)
 <img width="1249" height="763" alt="image" src="https://github.com/user-attachments/assets/920219d8-62e9-48fa-8de3-c5e156fb8a90" />
 <img width="1249" height="730" alt="image" src="https://github.com/user-attachments/assets/aade0eb2-d373-4a10-a424-b4c310cee96f" />
 <img width="1241" height="738" alt="image" src="https://github.com/user-attachments/assets/5c4deb9e-25ce-4dd2-9f7f-d619da9818e7" />
